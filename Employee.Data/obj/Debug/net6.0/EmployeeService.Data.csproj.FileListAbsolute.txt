@@ -1,0 +1,14 @@
+D:\EmployeeServiceTest\EmployeeService\Employee.Data\bin\Debug\net6.0\EmployeeService.Data.deps.json
+D:\EmployeeServiceTest\EmployeeService\Employee.Data\bin\Debug\net6.0\EmployeeService.Data.runtimeconfig.json
+D:\EmployeeServiceTest\EmployeeService\Employee.Data\bin\Debug\net6.0\EmployeeService.Data.dll
+D:\EmployeeServiceTest\EmployeeService\Employee.Data\bin\Debug\net6.0\EmployeeService.Data.pdb
+D:\EmployeeServiceTest\EmployeeService\Employee.Data\obj\Debug\net6.0\EmployeeService.Data.csproj.AssemblyReference.cache
+D:\EmployeeServiceTest\EmployeeService\Employee.Data\obj\Debug\net6.0\EmployeeService.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeServiceTest\EmployeeService\Employee.Data\obj\Debug\net6.0\EmployeeService.Data.AssemblyInfoInputs.cache
+D:\EmployeeServiceTest\EmployeeService\Employee.Data\obj\Debug\net6.0\EmployeeService.Data.AssemblyInfo.cs
+D:\EmployeeServiceTest\EmployeeService\Employee.Data\obj\Debug\net6.0\EmployeeService.Data.csproj.CoreCompileInputs.cache
+D:\EmployeeServiceTest\EmployeeService\Employee.Data\obj\Debug\net6.0\EmployeeService.Data.dll
+D:\EmployeeServiceTest\EmployeeService\Employee.Data\obj\Debug\net6.0\refint\EmployeeService.Data.dll
+D:\EmployeeServiceTest\EmployeeService\Employee.Data\obj\Debug\net6.0\EmployeeService.Data.pdb
+D:\EmployeeServiceTest\EmployeeService\Employee.Data\obj\Debug\net6.0\EmployeeService.Data.genruntimeconfig.cache
+D:\EmployeeServiceTest\EmployeeService\Employee.Data\obj\Debug\net6.0\ref\EmployeeService.Data.dll
