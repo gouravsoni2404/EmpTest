@@ -1,0 +1,12 @@
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.BusinessLogic\bin\Debug\net7.0\EmployeeManagenent.BusinessLogic.deps.json
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.BusinessLogic\bin\Debug\net7.0\EmployeeManagenent.BusinessLogic.dll
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.BusinessLogic\bin\Debug\net7.0\EmployeeManagenent.BusinessLogic.pdb
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.BusinessLogic\obj\Debug\net7.0\EmployeeManagenent.BusinessLogic.csproj.AssemblyReference.cache
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.BusinessLogic\obj\Debug\net7.0\EmployeeManagenent.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.BusinessLogic\obj\Debug\net7.0\EmployeeManagenent.BusinessLogic.AssemblyInfoInputs.cache
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.BusinessLogic\obj\Debug\net7.0\EmployeeManagenent.BusinessLogic.AssemblyInfo.cs
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.BusinessLogic\obj\Debug\net7.0\EmployeeManagenent.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.BusinessLogic\obj\Debug\net7.0\EmployeeManagenent.BusinessLogic.dll
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.BusinessLogic\obj\Debug\net7.0\refint\EmployeeManagenent.BusinessLogic.dll
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.BusinessLogic\obj\Debug\net7.0\EmployeeManagenent.BusinessLogic.pdb
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.BusinessLogic\obj\Debug\net7.0\ref\EmployeeManagenent.BusinessLogic.dll

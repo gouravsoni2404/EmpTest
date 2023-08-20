@@ -1,0 +1,12 @@
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.Contracts\bin\Debug\net7.0\EmployeeManagenent.Contracts.deps.json
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.Contracts\bin\Debug\net7.0\EmployeeManagenent.Contracts.dll
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.Contracts\bin\Debug\net7.0\EmployeeManagenent.Contracts.pdb
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.Contracts\obj\Debug\net7.0\EmployeeManagenent.Contracts.csproj.AssemblyReference.cache
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.Contracts\obj\Debug\net7.0\EmployeeManagenent.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.Contracts\obj\Debug\net7.0\EmployeeManagenent.Contracts.AssemblyInfoInputs.cache
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.Contracts\obj\Debug\net7.0\EmployeeManagenent.Contracts.AssemblyInfo.cs
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.Contracts\obj\Debug\net7.0\EmployeeManagenent.Contracts.csproj.CoreCompileInputs.cache
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.Contracts\obj\Debug\net7.0\EmployeeManagenent.Contracts.dll
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.Contracts\obj\Debug\net7.0\refint\EmployeeManagenent.Contracts.dll
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.Contracts\obj\Debug\net7.0\EmployeeManagenent.Contracts.pdb
+D:\EmployeeServiceTest\EmployeeManagenent\EmployeeManagenent.Contracts\obj\Debug\net7.0\ref\EmployeeManagenent.Contracts.dll
